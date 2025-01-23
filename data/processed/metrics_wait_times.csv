@@ -1,0 +1,4 @@
+admission_type,ed_wait_time_mean,ed_wait_time_median,ed_wait_time_count,admission_duration_mean,admission_duration_median
+ELECTIVE,400.0,350.0,0,280.04,187.67
+EMERGENCY,348.23,302.0,92,221.45,153.77
+URGENT,103,78,0,150.23,150.23
