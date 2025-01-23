@@ -29,7 +29,7 @@ A **Streamlit-based interactive dashboard** designed to analyze hospital data, o
 ### **2. Run Locally**
 
 #### **Step 1: Clone the Repository**
-```bash
+
 git clone https://github.com/<your-username>/healthcare-analytics.git
 cd healthcare-analytics
 
