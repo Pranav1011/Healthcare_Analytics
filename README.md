@@ -23,7 +23,7 @@ A **Streamlit-based interactive dashboard** designed to analyze hospital data, o
 ## 🛠️ Setup Instructions
 
 ### **1. Prerequisites**
-- Python 3.9+
+- Python 3.12.2+
 - Docker installed on your system
 
 ### **2. Run Locally**
