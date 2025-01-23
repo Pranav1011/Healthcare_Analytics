@@ -47,7 +47,7 @@ streamlit run streamlit_app.py
 
 Open your browser at http://localhost:8501.
 
-## ** 3. Run with Docker**
+## **3. Run with Docker**
 
 #### **Step 1: Build the Docker Image**
 docker build -t healthcare-analytics .
