@@ -20,28 +20,6 @@ A **Streamlit-based interactive dashboard** designed to analyze hospital data, o
 
 ---
 
-## 📂 Project Structure
-healthcare-analytics/
-├── data/
-│   ├── raw/               # Raw input data (excluded in .dockerignore)
-│   ├── processed/         # Processed data files
-├── models/                # Saved ML models and encoders
-│   ├── ed_wait_time_model.pk1
-│   ├── encoder.pk1
-├── src/
-│   ├── data_processing/   # Data preprocessing pipeline
-│   │   └── mimic_processor.py
-│   ├── predictive_modeling/
-│   │   └── predictor.py   # ML model training and prediction
-├── streamlit_app.py       # Streamlit application entry point
-├── train_model.py         # Script to train the ML model
-├── Dockerfile             # Docker configuration
-├── requirements.txt       # Python dependencies
-├── .dockerignore          # Files excluded from Docker image
-└── README.md              # Project documentation
-
----
-
 ## 🛠️ Setup Instructions
 
 ### **1. Prerequisites**
