@@ -30,7 +30,7 @@ A **Streamlit-based interactive dashboard** designed to analyze hospital data, o
 
 #### **Step 1: Clone the Repository**
 
-git clone https://github.com/<your-username>/healthcare-analytics.git
+git clone https://github.com/Pranav1011/Healthcare_analytics.git
 cd healthcare-analytics
 
 #### **Step 2: Create and Activate a Virtual Environment**
